@@ -20,6 +20,11 @@
 findpeaks is a comprehensive Python library for robust detection and analysis of peaks and valleys in both 1D vectors and 2D arrays (images). The library provides multiple detection algorithms including topology-based persistent homology (most robust), mask-based local maximum filtering, and traditional peakdetect approaches. It can be used for time series analysis, signal processing, image analysis, and spatial data. ⭐️Star it if you like it⭐️
 </div>
 
+***Note***: This is a branch of [erdogant/findpeaks](https://github.com/erdogant/findpeaks),
+which has been updated with a `sphinx/` documentation directory and has some changes
+to syntax of docstrings to clean them up with sphinx. The Sphinx docs are configured
+to use scipy formatting, for easy reading.
+
 ---
 
 ## Star History
