@@ -54,6 +54,19 @@ dependencies = [
     'opencv-python-headless',
     ]
 
+	
+[project.optional-dependencies]
+dev = [
+	'numpy',
+	'sphinx_rtd_theme',
+	'rst2pdf',
+	'sphinx',
+	'pytest',
+	'irelease',
+	'sphinxcontrib-fulltoc',
+	'tabulate',
+]
+
 [project.urls]
 Homepage = "https://erdogant.github.io/findpeaks"
 Download = "https://github.com/erdogant/findpeaks/archive/{version}.tar.gz"
