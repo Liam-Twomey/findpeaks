@@ -40,7 +40,8 @@ The library includes comprehensive preprocessing capabilities (denoising, normal
 -----------------------------------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
+    :hidden:
 
     Background <background/index>
     Installation <installation/index>

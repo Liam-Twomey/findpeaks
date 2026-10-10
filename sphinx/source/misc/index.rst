@@ -1,10 +1,13 @@
+Support
+=======
+
 .. toctree::
   :maxdepth: 2
-  :caption: Miscellaneous
+  :caption: Support
 
   Coding_quality
   Links
-  sponsor
 
-
+.. include:: Coding_quality.rst
+.. include:: Links.rst
 

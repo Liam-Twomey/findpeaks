@@ -1,15 +1,8 @@
-Sponsor
-############
-
 .. include:: sponsor.rst
 
 
-Medium Blog
-############
-
-
 Medium Blogs
-#############
+------------
 
 .. note::
 	#. `Subscribe to Medium blogs <https://erdogant.medium.com/subscribe>`_
@@ -17,7 +10,7 @@ Medium Blogs
 
 
 Gumroad Products with Podcasts
-################################
+------------------------------
 
 .. tip::
 	#. `Gumroad products <https://erdogant.gumroad.com>`_
@@ -26,7 +19,7 @@ Gumroad Products with Podcasts
 	
 
 Colab Notebook
-################
+--------------
 
 .. note::
 	Experiment with fitting distributions using the `Colab notebook`_.
@@ -36,7 +29,7 @@ Colab Notebook
 
 
 Citing
-#########
+------
 
 .. note::
 	Bibtex can be found at the right side at the `github page <https://github.com/erdogant/findpeaks/>`_.

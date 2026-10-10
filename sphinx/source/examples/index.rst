@@ -1,6 +1,13 @@
+Examples
+========
+
 .. toctree::
   :maxdepth: 2
   :caption: Examples
+  :hidden:
 
-  Examples
-  Use-cases
+  Examples.rst
+  Use-cases.rst
+
+.. include:: Examples.rst
+.. include:: Use-cases.rst

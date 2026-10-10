@@ -26,9 +26,15 @@ html_logo = "figs/logo_ico.png"
 html_context = {
 	"default_mode": "dark",
 	"doc_path":"sphinx",
+	"theme_header_links_before_dropdown":10
 }
 html_theme_options = {
 	'navbar_align':"left",
+	'navbar_end':[],
+}
+html_sidebars = {
+	"background/*": [],
+	"install/*":[],
 }
 
 # -- Set path for autofunctions and autoset version info

@@ -1,3 +1,6 @@
+Algorithms
+----------
+
 .. toctree::
   :maxdepth: 2
 
@@ -7,3 +10,4 @@
   Caerus
   Performance
 
+.. include:: Topology

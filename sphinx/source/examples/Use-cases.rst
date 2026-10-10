@@ -9,7 +9,7 @@ To overcome these challanges, I developed the method ``Caerus`` and incorporated
 
 
 Bitcoin
-^^^^^^^^^^^^^^^^
+----------------
 
 .. code:: python
 
@@ -65,7 +65,7 @@ Lets print out some of the detected results:
 
 
 Facebook stocks
-^^^^^^^^^^^^^^^^
+----------------
 
 .. code:: python
 
@@ -262,7 +262,7 @@ The final results show that peak-detection for SAR images is possible using a em
 
 
 Denoising
-^^^^^^^^^^
+----------
 
 .. code:: python
 
@@ -316,7 +316,7 @@ Denoising
 
 
 Visualization
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+-------------------------------------
 
 .. code:: python
 
@@ -333,7 +333,7 @@ Visualization
 
 
 Find peaks on the denoised image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+-------------------------------------
 
 .. code:: python
 
